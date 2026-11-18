@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+I am a first-year PhD candidate at HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He. I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
 
 ## Research Interests
 
@@ -17,8 +17,8 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 
 ## Academic Background
 
-* **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 - Present
-* **B.Eng.**, Shanghai Jiao Tong University, 2020 - 2024
+* **Ph.D. in Computer Science** (2024-Present), Hong Kong University of Science and Technology
+* **B.Eng.** (2020-2024), Shanghai Jiao Tong University
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
 
 ## Research Experience
@@ -52,7 +52,7 @@ I am a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of 
 
 ## Contact Information
 
-* **Email:** jliugi@connect.ust.hk
+* **Email:** [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
 * **GitHub:** [Vicent0205](https://github.com/Vicent0205)
 * **Google Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 * **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
