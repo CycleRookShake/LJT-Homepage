@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Junteng Liu">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f7f93"/>
+      <stop offset="100%" stop-color="#194c5a"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" rx="72" fill="url(#bg)"/>
+  <circle cx="318" cy="84" r="78" fill="#ffffff" opacity="0.07"/>
+  <circle cx="66" cy="338" r="106" fill="#ffffff" opacity="0.06"/>
+  <text x="200" y="238" text-anchor="middle" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="142" font-weight="700" letter-spacing="2">JL</text>
+</svg>
