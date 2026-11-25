@@ -113,17 +113,27 @@ include:
 exclude:
   - .asset-cache
   - .bundle
+  - .devcontainer
   - .github
   - .jekyll-assets-cache
   - .sass-cache
+  - AGENTS.md
+  - Dockerfile
+  - Gemfile
+  - LICENSE
+  - README.md
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - Gemfile
-  - LICENSE
+  - docker-compose.yaml
+  - markdown_generator
   - node_modules
   - package.json
-  - README.md
+  - scripts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
   - vendor
 keep_files:
   - .git
