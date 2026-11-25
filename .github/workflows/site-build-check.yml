@@ -63,7 +63,7 @@ jobs:
           for phrase in required:
               assert phrase in index, f"Missing from homepage: {phrase}"
 
-          for phrase in required[12:18]:
+          for phrase in required[10:16]:
               assert phrase in publications, f"Missing from publications page: {phrase}"
 
           assert "Academic Pages is a ready-to-fork" not in index
